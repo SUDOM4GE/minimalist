@@ -72,7 +72,7 @@ button, a{
 /*typing effekt*/
 @keyframes typing {
     from { width: 0 }
-    to { width: 15ch } /*how many signs*/
+    to { width: 30ch } /*how many signs*/
 
 
 /* cursor blink*/
@@ -81,5 +81,6 @@ button, a{
 @keyframes blink {
     50% { border-color: transparent}
 }
+
 
 
